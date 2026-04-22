@@ -14,4 +14,3 @@ javac -d out src/com/example/agenda/*.java
 ## Run
 
 java -cp out com.example.agenda.Main
-# agenda-java
